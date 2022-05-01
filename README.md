@@ -1,16 +1,17 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+A Universal Dependencies corpus for Tunisian Arabic (ISO 639-3:	aeb)
 
 
 # Introduction
 
-...
+The treebank is based on a subsample of a corpus containing 13 hours of sampled and diversified recordings of Tunisian Arabic made in Orléans, France and in Tunisia, as part of a PhD research project (Ben Barka Messaoudi, F., (2016), Etude contrastive du subjonctif en français parlé à Orléans et de ses rapprochements sémantiques possibles en arabe tunisien.)
+The upcoming treebank will be an automatic conversion of the SUD_Tunisian_Arabic-NAxLAT available [here](https://github.com/surfacesyntacticud).
 
 
 # Acknowledgments
 
-...
+
 
 ## References
 
@@ -28,14 +29,14 @@
 Data available since: UD v2.9
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
-Lemmas: manual native
+Genre: spoken
+Lemmas: not available
 UPOS: manual native
 XPOS: not available
 Features: manual native
-Relations: manual native
-Contributors: Ziane, Rayan
-Contributing: here
+Relations: converted from manual
+Contributors: Ziane, Rayan; Khoudri, Mustapha; Ben Barka Messaoudi, Fatma
+Contributing: elsewhere
 Contact: ziane.rayan4@gmail.com
 ===============================================================================
 </pre>
