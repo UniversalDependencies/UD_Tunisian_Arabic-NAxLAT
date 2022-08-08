@@ -35,7 +35,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: converted from manual
-Contributors: Ziane, Rayan; Khoudri, Mustapha; Ben Barka Messaoudi, Fatma
+Contributors: Aya, Gherab; Khoudri, Mustapha; Ben Barka Messaoudi, Fatma; Ziane, Rayan
 Contributing: elsewhere
 Contact: ziane.rayan4@gmail.com
 ===============================================================================
